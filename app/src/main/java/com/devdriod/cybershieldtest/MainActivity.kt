@@ -66,6 +66,10 @@ class MainActivity : ComponentActivity() {
                         text = "hamna",
                         color = Color.Cyan
                     )
+                    Text(
+                        text = "aswxch",
+                        color = Color.Cyan
+                    )
                 }
             }
         }
