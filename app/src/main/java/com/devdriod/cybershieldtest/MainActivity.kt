@@ -62,6 +62,10 @@ class MainActivity : ComponentActivity() {
                         text = "Cyber Shield app",
                         color = Color.Cyan
                     )
+                    Text(
+                        text = "hamna",
+                        color = Color.Cyan
+                    )
                 }
             }
         }
