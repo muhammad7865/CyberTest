@@ -70,10 +70,15 @@ class MainActivity : ComponentActivity() {
                         text = "Awais Mohsin",
                         color = Color.Cyan
                     )
+                    New()
                 }
             }
         }
     }
 }
 
-
+@Composable
+fun New(
+) {
+    Text(text = "This is New function")
+}
