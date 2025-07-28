@@ -63,7 +63,11 @@ class MainActivity : ComponentActivity() {
                         color = Color.Cyan
                     )
                     Text(
-                        text = "hamna",
+                        text = "hamna Mudassar",
+                        color = Color.Cyan
+                    )
+                    Text(
+                        text = "Awais Mohsin",
                         color = Color.Cyan
                     )
                 }
